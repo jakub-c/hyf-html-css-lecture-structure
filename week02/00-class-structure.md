@@ -2,18 +2,18 @@
 
 ## Timetable
 
-|               |                                                            |
-| ------------- | ---------------------------------------------------------- |
-| 12:00 - 12:25 | intro talk & homework review                               |
-| 12:25 - 13:00 | break                                                      |
-| 12:30 - 13:00 | display: float, flex, media queries, inspector mobile view |
-| 13:00 - 13:05 | break                                                      |
-| 13:05 - 13:45 | hands on assignment                                        |
-| 13:45 - 14:00 | example implementation                                     |
-| 14:00 - 14:30 | break                                                      |
-| 14:30 - 15:00 | next assignment                                            |
-| 15:05 - 15:25 | solution                                                   |
-| 15:30 - 16:00 | homework (how to raise an issue, deadlines)                |
+|               |                                             |
+| ------------- | ------------------------------------------- |
+| 12:00 - 12:25 | intro talk & homework review                |
+| 12:25 - 13:00 | break                                       |
+| 12:30 - 13:10 | display: float, inspector                   |
+| 13:10 - 13:20 | break                                       |
+| 13:20 - 13:45 | display: flex, media queries, mobile view   |
+| 13:45 - 14:00 | example implementation                      |
+| 14:00 - 14:30 | break                                       |
+| 14:30 - 15:00 | next assignment                             |
+| 15:05 - 15:25 | solution                                    |
+| 15:30 - 16:00 | homework (how to raise an issue, deadlines) |
 
 ## Homework
 
